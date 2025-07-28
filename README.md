@@ -9,6 +9,8 @@
 
 常用的 Javascript 工具类方法集合
 
+**⚠️注意：此仓库已归档，不再维护。如需要，请参考 [cloud-utils](https://github.com/winjs-dev/cloud-utils)。**
+
 ## 目录介绍
 
 ```
